@@ -2283,7 +2283,7 @@ input::-moz-focus-inner {
   padding-left: 5.6rem;
   padding-bottom: .8rem;
   margin-top: 2.8rem;
-  min-height: 35.6rem;
+  min-height: 24rem;
 }
 
 .timeline .timeline__block:last-child {
