@@ -2506,7 +2506,7 @@ input::-moz-focus-inner {
  * ------------------------------------------------------------------- */
 .s-services {
   padding-top: 19.2rem;
-  padding-bottom: 16rem;
+  padding-bottom: 8rem;
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -2561,7 +2561,7 @@ input::-moz-focus-inner {
 .services-list .item-service {
   margin-bottom: 2.4rem;
   padding: 0 30px;
-  min-height: 44.8rem;
+  min-height: 35rem;
 }
 
 .services-list .item-service__content {
